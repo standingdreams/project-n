@@ -513,8 +513,14 @@ padding-bottom: 10px !important;
     }
 }
 
-input.form-control {
-    width: 50%;
+.account-details {
+  .container {
     margin: 0 auto;
+    max-width: 740px;
+  }
 }
 
+input.form-control {
+  width: 100%;
+  margin: 0 auto;
+}

@@ -268,7 +268,14 @@
     }
 
     .footer{
+        nav {
+            display: block;
+            float: none;
+            margin-bottom: 10px;
+            text-align: center;
+        }
         .copyright{
+            display: block;
             text-align: center;
         }
     }
