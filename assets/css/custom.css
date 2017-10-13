@@ -512,3 +512,9 @@ padding-bottom: 10px !important;
         display: none !important;
     }
 }
+
+input.form-control {
+    width: 50%;
+    margin: 0 auto;
+}
+
