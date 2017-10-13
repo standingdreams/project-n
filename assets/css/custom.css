@@ -2,6 +2,13 @@
     margin-bottom: 20px;
 }
 
+.remove-padding {
+padding-top: 0px !important;
+}
+
+.p-space {
+padding-bottom: 10px !important;
+}
 .tim-white-buttons {
     background-color: #777777;
 }
