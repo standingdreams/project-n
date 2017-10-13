@@ -1,5 +1,9 @@
 # Project N
-Web app for a UK based non-profit organisation.
+
+🎗️ Web app for a UK based non-profit organisation.
+
+🎗️ UI built using [Now UI KIT](http://demos.creative-tim.com/now-ui-kit/index.html)
+
 
 
  ## License
