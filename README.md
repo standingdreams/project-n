@@ -1,6 +1,16 @@
 # Project N
+
 Web app for a UK based non-profit organisation.
 
+🎗️ Web app for a UK based non-profit organisation.
+
+🎗️ UI built using [Now UI KIT](http://demos.creative-tim.com/now-ui-kit/index.html)
+
+
+ ## Pages Developed
+🎗️ [Login](https://raynescc.github.io/project-n/examples/login-page.html)
+
+🎗️ [Profile](https://raynescc.github.io/project-n/examples/profile-page.html)
 
  ## License
  
